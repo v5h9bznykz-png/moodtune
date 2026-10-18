@@ -1,0 +1,607 @@
+{
+  "feed": {
+    "updated": "2026-10-18T01:22:15-07:00",
+    "results": [
+      {
+        "name": "咲き誇れ",
+        "artistName": "YOASOBI",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/32/9e/7a329e90-a8e5-cc05-4a8f-142811b9b095/885288733761.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8C/6817668875?i=6817668876&uo=2"
+      },
+      {
+        "name": "雲を抜け風下へ私だけ",
+        "artistName": "ヨルシカ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1b/25/4b1b2572-0dc9-7c83-1e56-ce3354ead351/26UM1IM20044.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E9%9B%B2%E3%82%92%E6%8A%9C%E3%81%91%E9%A2%A8%E4%B8%8B%E3%81%B8%E7%A7%81%E3%81%A0%E3%81%91/6817316270?i=6817316271&uo=2"
+      },
+      {
+        "name": "うららか",
+        "artistName": "Da-iCE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/27/1d/99271d70-4bc4-c7f9-5efc-d85d0de3a276/ANTCD-A0000021068.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%86%E3%82%89%E3%82%89%E3%81%8B/6811888320?i=6811888323&uo=2"
+      },
+      {
+        "name": "Raven Sky",
+        "artistName": "Ado",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/db/a6/fcdba60e-6b10-6bbf-a86e-ac96bb806cef/26UM1IM12682.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/raven-sky/6819493309?i=6819493310&uo=2"
+      },
+      {
+        "name": "EGO",
+        "artistName": "Travis Japan",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/ego/6819134538?i=6819134540&uo=2"
+      },
+      {
+        "name": "It's not a bad life",
+        "artistName": "BE:FIRST",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f2/36/edf236d5-4773-2ad5-94ce-42f1f400b296/ANTCD-A0000020993.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/its-not-a-bad-life/6817729828?i=6817729836&uo=2"
+      },
+      {
+        "name": "サヨナラとバトン",
+        "artistName": "DREAMS COME TRUE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/33/6f/1e336feb-6aa0-9413-ecdc-34a12a57c845/26UM1IM17911.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9%E3%81%A8%E3%83%90%E3%83%88%E3%83%B3/6820334535?i=6820334538&uo=2"
+      },
+      {
+        "name": "Turn The World Upside Down",
+        "artistName": "霧島透子",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/94/82/9d94826d-cc86-9598-aa65-3246c30fd9cb/4534530166906.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/turn-the-world-upside-down/6817732108?i=6817732536&uo=2"
+      },
+      {
+        "name": "Everything I Need",
+        "artistName": "ELLEGARDEN",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/1d/04/4f1d04f7-9c39-93f9-56f4-de8aa25d2db1/29378.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/everything-i-need/6818411025?i=6818411026&uo=2"
+      },
+      {
+        "name": "しわあわせ",
+        "artistName": "Vaundy",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/7f/ca/267fca78-32f8-1504-95fe-d74245126abe/197189907456.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%97%E3%82%8F%E3%81%82%E3%82%8F%E3%81%9B/1706829225?i=1706829387&uo=2"
+      },
+      {
+        "name": "Yes! 東京 (feat. SUPER★DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+        "artistName": "EBiDAN (恵比寿学園男子部), 超特急, M!LK & 原因は自分にある。",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-feat-super-dragon-sakurashimeji-one-n-only-buddiis/6782749976?i=6782749979&uo=2"
+      },
+      {
+        "name": "水平線は僕の古傷 finale",
+        "artistName": "桜島麻衣(CV:瀬戸麻沙美), 美東美織, 広川卯月(CV:雨宮天), 赤城郁実(CV:山根綺), 姫路紗良(CV:小原好美), 岩見沢寧々(CV:上田麗奈), 古賀朋絵(CV:東山奈央), 双葉理央(CV:種﨑敦美), 豊浜のどか(CV:内田真礼), 梓川かえで(CV:久保ユリカ), 梓川花楓(CV:久保ユリカ) & 牧之原翔子(CV:水瀬いのり)",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/94/82/9d94826d-cc86-9598-aa65-3246c30fd9cb/4534530166906.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%B0%B4%E5%B9%B3%E7%B7%9A%E3%81%AF%E5%83%95%E3%81%AE%E5%8F%A4%E5%82%B7-finale/6817732108?i=6817732706&uo=2"
+      },
+      {
+        "name": "汝、星のごとく",
+        "artistName": "RADWIMPS",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/60/30/506030b1-aa11-6bb4-2d4b-d2136790ff5c/26UM1IM29233.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%B1%9D-%E6%98%9F%E3%81%AE%E3%81%94%E3%81%A8%E3%81%8F/6819570455?i=6819570457&uo=2"
+      },
+      {
+        "name": "エンバートーチ",
+        "artistName": "sumika",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/16/42/be1642b0-10cc-3941-76a0-0f99f6931898/4547366855937.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88%E3%83%BC%E3%83%81/6815636614?i=6815636619&uo=2"
+      },
+      {
+        "name": "So Strawberry",
+        "artistName": "MAZZEL",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/23/35/5a233580-10ac-9d28-0213-2dd916446f1d/26UM1IM06803.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/so-strawberry/6810920370?i=6810920373&uo=2"
+      },
+      {
+        "name": "結び",
+        "artistName": "Ayumu Imazu",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/54/c5/aa54c5c6-e8e0-a701-6329-2c3a6fa228c2/26UM1IM20018.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E7%B5%90%E3%81%B3/6817260750?i=6817260751&uo=2"
+      },
+      {
+        "name": "さながらロンリー",
+        "artistName": "あいみょん",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/c9/90/d1c990d5-d9c5-2c01-01e3-43d464eac4b5/1200220161188.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%95%E3%81%AA%E3%81%8C%E3%82%89%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC/6817154167?i=6817154168&uo=2"
+      },
+      {
+        "name": "NEON",
+        "artistName": "A2O & A2O LITE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/9c/af/479caf36-9941-3b8e-51f5-98e761463502/888272190403_Cover.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/neon/6820428726?i=6820428730&uo=2"
+      },
+      {
+        "name": "好きすぎて滅!",
+        "artistName": "M!LK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946&uo=2"
+      },
+      {
+        "name": "It's Me",
+        "artistName": "ILLIT",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/its-me/1894837142?i=1894837345&uo=2"
+      },
+      {
+        "name": "夕星-ゆうづつ-",
+        "artistName": "RADWIMPS",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c3/23fac397-1a45-9dcc-8459-e1769ede428d/26UM1IM16445.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%A4%95%E6%98%9F-%E3%82%86%E3%81%86%E3%81%A5%E3%81%A4/6815505067?i=6815505071&uo=2"
+      },
+      {
+        "name": "Odd Dice",
+        "artistName": "millsage",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/cc/d4/0dccd49e-0d24-545c-4f7d-767900870668/823375529569_Cover.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/odd-dice/6821803548?i=6821803549&uo=2"
+      },
+      {
+        "name": "原子崩し",
+        "artistName": "岸田教団&THE明星ロケッツ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/a5/cd/d6a5cded-dd1d-43f4-919b-3e18f446f24f/1200220233601.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%8E%9F%E5%AD%90%E5%B4%A9%E3%81%97/6819323104?i=6819323107&uo=2"
+      },
+      {
+        "name": "Brand New",
+        "artistName": "Mrs. GREEN APPLE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810&uo=2"
+      },
+      {
+        "name": "さよならばっか",
+        "artistName": "MISIA",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/79/ed/8379edef-0000-b74d-2a74-34f66ab9f769/4547366857108.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%81%B0%E3%81%A3%E3%81%8B/6819535019?i=6819535020&uo=2"
+      },
+      {
+        "name": "AIYOU",
+        "artistName": "Eve",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/7c/6b/a27c6b19-fd28-8d99-2fae-c324213515d0/4573623373876.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/aiyou/6811917350?i=6811917449&uo=2"
+      },
+      {
+        "name": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+        "artistName": "YAO",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d5/a6/fad5a6d5-60b1-4ba3-3da9-be47bb3b7d68/4550759798070_cover.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%82%E3%82%8A%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%AB-feat-awich-chico-carlito-one-ok-rock-paledusk/6803148720?i=6803148739&uo=2"
+      },
+      {
+        "name": "見知らぬ糸",
+        "artistName": "スピッツ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0d/29/ab0d292f-3675-729e-4a8f-eb79a4c88367/26UMGIM87104.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC%E7%B3%B8/6793888333?i=6793888335&uo=2"
+      },
+      {
+        "name": "爆裂愛してる",
+        "artistName": "M!LK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E7%88%86%E8%A3%82%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B/1869537741?i=1869537742&uo=2"
+      },
+      {
+        "name": "Ghost Sequence",
+        "artistName": "East Of Eden",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/1d/c4/8b1dc40f-31b5-5e60-db2e-dad47b889f3f/1200220227747.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/ghost-sequence/6819973419?i=6819973421&uo=2"
+      },
+      {
+        "name": "IRIS OUT",
+        "artistName": "米津玄師",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529&uo=2"
+      },
+      {
+        "name": "愛MUST BE",
+        "artistName": "櫻坂46",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/8e/94/048e9483-51e7-46c4-1b33-50d0d87478e5/4547366858808.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%84%9Bmust-be/6819972337?i=6819972338&uo=2"
+      },
+      {
+        "name": "Firestarter",
+        "artistName": "MAN WITH A MISSION",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/47/7c/31477ced-6d71-93ce-ac7d-66b69dc13cd2/4547366856347.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/firestarter/6815691223?i=6815691224&uo=2"
+      },
+      {
+        "name": "夜の踊り子",
+        "artistName": "サカナクション",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/bb/609bbb5d-96eb-ae16-f08a-81a3223deb24/VICL-63999.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/604748196?i=604748203&uo=2"
+      },
+      {
+        "name": "MUJO",
+        "artistName": "吉井和哉",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/bc/cb/d8bccb1e-16c2-c314-28ce-fe69c9f10434/26UM1IM27215.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/mujo/6820982093?i=6820982098&uo=2"
+      },
+      {
+        "name": "Period",
+        "artistName": "iri",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/15/4f/1b154f5e-0870-2f74-2b71-4aac3c8716fe/4547366855944.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/period/6818025909?i=6818025910&uo=2"
+      },
+      {
+        "name": "VIVANT <Main theme>",
+        "artistName": "千住明",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/02/2d/04022dc2-0a7f-d853-75f7-471e59b5afb2/UZCL-2271_72.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/vivant-main-theme/1701389290?i=1701389291&uo=2"
+      },
+      {
+        "name": "Five",
+        "artistName": "嵐",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/77/28/05772817-1d81-ee8e-8224-a225f74a310b/820200234377.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/five/1879524863?i=1879525016&uo=2"
+      },
+      {
+        "name": "時空超えてユニバース",
+        "artistName": "M!LK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/c1/3e/d0c13e26-39b8-76b3-8ba5-b4412872260f/VEATP-45880.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%99%82%E7%A9%BA%E8%B6%85%E3%81%88%E3%81%A6%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9/6803798492?i=6803798494&uo=2"
+      },
+      {
+        "name": "リスポーン!!",
+        "artistName": "角巻わため",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/ed/a2/1ceda2b6-4f34-95bf-021c-b64ce9e177f4/4988021079860.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%AA%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%B3/6813373403?i=6813373404&uo=2"
+      },
+      {
+        "name": "共犯",
+        "artistName": "Mrs. GREEN APPLE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/cc/da/d9ccdae5-6251-b671-dbf3-5b0508dc52ad/26UM1IM13923.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%85%B1%E7%8A%AF/6808172946?i=6808172970&uo=2"
+      },
+      {
+        "name": "SPIN",
+        "artistName": "Kroi",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/bf/52/4bbf52a7-8cfc-9174-b85d-efc473c6c80a/28688.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/spin/6810484114?i=6810484116&uo=2"
+      },
+      {
+        "name": "エトランス・フィーバー",
+        "artistName": "超特急",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/21/41/452141bc-9a52-0402-3598-5c3fa6b9b2ff/26UMGIM69242.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC/6817282562?i=6817282954&uo=2"
+      },
+      {
+        "name": "勝ち確♡ラヴ",
+        "artistName": "DRAW♡ME",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/d6/df/3dd6df3d-72be-1585-5273-699b205d39a9/4547366858181.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%8B%9D%E3%81%A1%E7%A2%BA-%E3%83%A9%E3%83%B4/6817670742?i=6817670744&uo=2"
+      },
+      {
+        "name": "Paradox (Re-Recording)",
+        "artistName": "w-inds.",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/1d/e3/091de327-aa68-00c6-5c02-c741b1ee414a/28936.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/paradox-re-recording/6816870683?i=6816871105&uo=2"
+      },
+      {
+        "name": "パンどろぼうのうた",
+        "artistName": "パンやのおじさん(CV:諏訪部順一) & パンどろぼう(CV:朝井彩加)",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/5b/ec/ef5becc7-3559-be25-5111-4cd3545f1fcc/PA00227485_0_254815_jacket.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%91%E3%83%B3%E3%81%A9%E3%82%8D%E3%81%BC%E3%81%86%E3%81%AE%E3%81%86%E3%81%9F/6812164641?i=6812164934&uo=2"
+      },
+      {
+        "name": "Pang Pang Pang",
+        "artistName": "きゃりーぱみゅぱみゅ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/a3/79/4ca379f6-0d48-42ae-58af-0744c159148e/885288562576.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/pang-pang-pang/6810134250?i=6810134253&uo=2"
+      },
+      {
+        "name": "IGNITE",
+        "artistName": "JO1",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/88/8e97883f-a1c7-4ac8-3982-de71a9988f2c/4582109079195.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/ignite/6797375185?i=6797375186&uo=2"
+      },
+      {
+        "name": "Gorgeous",
+        "artistName": "EXILE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/a5/50/cea550ad-3577-67d0-1a9c-8d71cde2d932/ANTCD-A0000021408.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/gorgeous/6819577931?i=6819577932&uo=2"
+      },
+      {
+        "name": "なんもねえ",
+        "artistName": "忘れらんねえよ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/28/00/6e280007-5f1f-388e-4041-e593d43d1297/4988021077361.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%AA%E3%82%93%E3%82%82%E3%81%AD%E3%81%88/6781198667?i=6781198668&uo=2"
+      },
+      {
+        "name": "ぴ",
+        "artistName": "ナナヲアカリ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/43/38/da4338f2-0768-d2a6-8bdf-ad509a3ff30c/4547366850659.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%B4/6815570138?i=6815570499&uo=2"
+      },
+      {
+        "name": "運命さがし",
+        "artistName": "マカロニえんぴつ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/cb/48/dfcb486d-4109-e643-6299-694336036dda/4094482.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E9%81%8B%E5%91%BD%E3%81%95%E3%81%8C%E3%81%97/6799944399?i=6799944400&uo=2"
+      },
+      {
+        "name": "ゆずれない願い",
+        "artistName": "田村直美",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/eb/4d/3beb4d42-6f9e-af50-6657-63ad86d15855/26UM1IM17065.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%86%E3%81%9A%E3%82%8C%E3%81%AA%E3%81%84%E9%A1%98%E3%81%84/6817051160?i=6817051437&uo=2"
+      },
+      {
+        "name": "彼方",
+        "artistName": "FictionJunction",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/2e/01/f22e01f7-39fd-dc05-88a1-60b130423dc7/4547366845822.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%BD%BC%E6%96%B9/6802136203?i=6802136204&uo=2"
+      },
+      {
+        "name": "Zoo ～君がいるから～ (From 『ズートピア2』/日本語版)",
+        "artistName": "Dream Ami",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/4f/58/754f582c-d1fd-e35d-c622-f83ee6ed1fae/25UM2IM06914.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/zoo-%E5%90%9B%E3%81%8C%E3%81%84%E3%82%8B%E3%81%8B%E3%82%89-from-%E3%82%BA%E3%83%BC%E3%83%88%E3%83%94%E3%82%A22-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88/1861940083?i=1861940089&uo=2"
+      },
+      {
+        "name": "烏 - Raven",
+        "artistName": "米津玄師",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/89/10/668910f4-2f09-12c7-200a-104eee77cb48/4547366827767.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E7%83%8F-raven/6774039193?i=6774039202&uo=2"
+      },
+      {
+        "name": "Heartbeat (BTS World Original Soundtrack)",
+        "artistName": "BTS",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/76/d1/5076d182-cb0b-9b67-41ac-55abeb2dee33/23UMGIM74555.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/heartbeat-bts-world-original-soundtrack/1694655830?i=1694655833&uo=2"
+      },
+      {
+        "name": "SEASONS (feat. ayumi hamasaki)",
+        "artistName": "AK-69",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/ae/c0/cdaec0be-2156-0e9c-2eec-612cc4e3eaab/4550795379042_cover.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/seasons-feat-ayumi-hamasaki/6820463104?i=6820463319&uo=2"
+      },
+      {
+        "name": "DEMON'S SHOT",
+        "artistName": "Aiobahn +81 & DEMONDICE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/a5/ab/20a5ab13-7ae3-4e34-aa40-5eb6e9c421c5/ANTCD-A0000021126.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/demons-shot/6813022242?i=6813022243&uo=2"
+      },
+      {
+        "name": "アイドルパワー",
+        "artistName": "M!LK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/23/e2/6323e2fb-271c-5d6b-5db4-a6eeac25ac19/VEATP-45552.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%91%E3%83%AF%E3%83%BC/1894988524?i=6762737233&uo=2"
+      },
+      {
+        "name": "マイオンリー",
+        "artistName": "SixTONES",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/28/43/be284309-bce7-bfc4-a1a8-90a6712b1b8f/4547366834611.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6785734869?i=6785734870&uo=2"
+      },
+      {
+        "name": "3XL",
+        "artistName": "Number_i",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/52/90/295290eb-1ffc-1990-33e2-c754c6d3f361/4570199893418.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/3xl/6780368685?i=6780368967&uo=2"
+      },
+      {
+        "name": "Honto",
+        "artistName": "sumika",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/32/86/8f328643-1b30-0492-39e6-dc5a7acdcef4/4547366810172.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/honto/1876930486?i=1876930487&uo=2"
+      },
+      {
+        "name": "いつかわかる☆きっとあえる",
+        "artistName": "熊田茜音&増井優花、名探偵プリキュア!",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/36/01/d636017b-3b6a-92cf-5143-170c4d273f4a/MJSS-09407.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%84%E3%81%A4%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%8B-%E3%81%8D%E3%81%A3%E3%81%A8%E3%81%82%E3%81%88%E3%82%8B/6812570866?i=6812570868&uo=2"
+      },
+      {
+        "name": "絆",
+        "artistName": "亀梨和也",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/a1/2b/d6a12b59-d49c-7ab1-cf90-43307c4921d2/4517331096726.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E7%B5%86/1828586127?i=1828586130&uo=2"
+      },
+      {
+        "name": "同往 (《嫁金钗》电视剧陆濯·情深曲)",
+        "artistName": "ZHANG HAO",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/a2/e0/eca2e07a-e227-08b1-4828-eb72232b19d6/4896043565776.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%90%8C%E5%BE%80-%E5%AB%81%E9%87%91%E9%92%97-%E7%94%B5%E8%A7%86%E5%89%A7%E9%99%86%E6%BF%AF-%E6%83%85%E6%B7%B1%E6%9B%B2/6822442709?i=6822442711&uo=2"
+      },
+      {
+        "name": "Mela!",
+        "artistName": "緑黄色社会",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/f9/eb/0cf9eb76-63b7-820d-6756-7e693e114b45/jacket_ESCL05378B00Z_550.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/mela/1538137544?i=1538137547&uo=2"
+      },
+      {
+        "name": "ブルーアンバー",
+        "artistName": "back number",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/b9/bc/d5b9bc67-dc87-e451-1ccb-67f3e8b77aa6/25UMGIM41036.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC/1808852878?i=1808852932&uo=2"
+      },
+      {
+        "name": "グッタイム",
+        "artistName": "Snow Man",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/42/4b/a5424b45-7eca-05af-0e20-e93539e193dd/ANTCD-A0000020458.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%B0%E3%83%83%E3%82%BF%E3%82%A4%E3%83%A0/6785411719?i=6785411720&uo=2"
+      },
+      {
+        "name": "スパークル (original ver.)",
+        "artistName": "RADWIMPS",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/a4/ee/48a4eef8-3028-8d36-5804-4f534b17b157/16UMGIM76109.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AB-original-ver/1440762577?i=1440763501&uo=2"
+      },
+      {
+        "name": "怪獣の花唄",
+        "artistName": "Vaundy",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/89/00/09890002-b2de-3637-39b2-f6c2d34d0e93/197189854859.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%80%AA%E7%8D%A3%E3%81%AE%E8%8A%B1%E5%94%84/1706831732?i=1706832137&uo=2"
+      },
+      {
+        "name": "星を巡る",
+        "artistName": "ロクデナシ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/14/7c/62147c36-899f-9687-44aa-c881b0cdf0a2/VEATP-45943.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%98%9F%E3%82%92%E5%B7%A1%E3%82%8B/6813306596?i=6813306597&uo=2"
+      },
+      {
+        "name": "ライラック",
+        "artistName": "Mrs. GREEN APPLE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799&uo=2"
+      },
+      {
+        "name": "拝啓、少年よ",
+        "artistName": "Hump Back",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/d5/8a/fad58adc-218c-3fe3-1428-040a5187729c/4988021823470.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%8B%9D%E5%95%93-%E5%B0%91%E5%B9%B4%E3%82%88/1395024571?i=1395024580&uo=2"
+      },
+      {
+        "name": "机さする",
+        "artistName": "青木遥",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/1b/6d/a81b6d69-21ea-6bfa-c56e-4473246db5fe/4550758740391_cover.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%9C%BA%E3%81%95%E3%81%99%E3%82%8B/6792293464?i=6792293588&uo=2"
+      },
+      {
+        "name": "パジャマパーティーズのうた",
+        "artistName": "パジャマパーティーズ みどり(CV. 諸星すみれ)、ぴんく(CV. 長縄まりあ)、しろ(CV. 篠原侑)、むらさき(CV. 内山茉莉)",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/6b/2f/b96b2f56-2ae8-17b7-087a-5d003b1153b4/PCSP_05701_A.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%91%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA%E3%81%AE%E3%81%86%E3%81%9F/1728618785?i=1728618786&uo=2"
+      },
+      {
+        "name": "Walking with you",
+        "artistName": "Novelbright",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/0a/ca/3a0aca57-45c1-7aca-1be1-9755d549ffb9/EPM-10001.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/walking-with-you/1444839833?i=1444839834&uo=2"
+      },
+      {
+        "name": "魔法",
+        "artistName": "DEFI",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/6f/6c/3b6f6cb1-8a3b-57fe-4859-dbda725c6ac0/4550795223796_cover.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E9%AD%94%E6%B3%95/6818979487?i=6818979490&uo=2"
+      },
+      {
+        "name": "夢中",
+        "artistName": "BE:FIRST",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/ed/cc/d8edcca9-78f5-92ed-ff2f-145866ad2f51/ANTCD-A0000016484.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E5%A4%A2%E4%B8%AD/1807959955?i=1807959956&uo=2"
+      },
+      {
+        "name": "WINDY SUMMER",
+        "artistName": "杏里",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/26/5d/72265d48-d844-8217-1944-288436a50820/mzi.jgyybcqg.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/windy-summer/283306771?i=283306773&uo=2"
+      },
+      {
+        "name": "涙の河",
+        "artistName": "羊文学 & くるり",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/aa/f3/8caaf3ee-04d1-cf40-9dc2-435f26cc86f6/4547366855999.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%B6%99%E3%81%AE%E6%B2%B3/6816009943?i=6816009946&uo=2"
+      },
+      {
+        "name": "カリスマックス",
+        "artistName": "Snow Man",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/3d/b9/a33db9e9-1d2a-1d9c-38e5-327e6f6b7146/ANTCD-A0000017755.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9/1831676528?i=1831676531&uo=2"
+      },
+      {
+        "name": "風の中は走るっきゃないっ!",
+        "artistName": "三月のパンタシア",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/29/ae/9229aea9-b7c4-6f43-18c6-b4b033d61c72/4547366854893.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E9%A2%A8%E3%81%AE%E4%B8%AD%E3%81%AF%E8%B5%B0%E3%82%8B%E3%81%A3%E3%81%8D%E3%82%83%E3%81%AA%E3%81%84%E3%81%A3/6812190429?i=6812190650&uo=2"
+      },
+      {
+        "name": "水平線",
+        "artistName": "back number",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/d6/8f/bdd68f1b-8588-3e91-faab-ab9d7ca35c2f/21UMGIM28078.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%B0%B4%E5%B9%B3%E7%B7%9A/1579439167?i=1579439168&uo=2"
+      },
+      {
+        "name": "JANE DOE",
+        "artistName": "米津玄師 & 宇多田ヒカル",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/91/aa/7391aabc-81d8-2bcb-3b0f-8e24bc855745/4547366775211.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/jane-doe/1840081735?i=1840081736&uo=2"
+      },
+      {
+        "name": "Grave of Halo",
+        "artistName": "アキ・ローゼンタール",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/de/75/d0de7553-b6e5-1440-107a-d99dbda257c2/4580883423616_art.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/grave-of-halo/6822527262?i=6822527263&uo=2"
+      },
+      {
+        "name": "lulu.",
+        "artistName": "Mrs. GREEN APPLE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/57/00/0c570009-660c-0faa-c53b-8f06ce2b04ea/25UM2IM10507.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/lulu/1867354077?i=1867354081&uo=2"
+      },
+      {
+        "name": "怪獣",
+        "artistName": "サカナクション",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/35/c7/4435c703-3647-654b-16a7-ab74885f71da/VEATP-43484.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%80%AA%E7%8D%A3/1795905599?i=1795905600&uo=2"
+      },
+      {
+        "name": "Yes! 東京 (M!LK ver. 体験入学)",
+        "artistName": "EBiDAN (恵比寿学園男子部) & M!LK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/a3/34/58a33441-7926-8b5c-ee82-3771614dcbd3/4580789778247.png/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-m-lk-ver-%E4%BD%93%E9%A8%93%E5%85%A5%E5%AD%A6/6793870933?i=6793870935&uo=2"
+      },
+      {
+        "name": "Pretender",
+        "artistName": "Official髭男dism",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/b6/36/1fb6364f-77fc-7653-3750-811631832ee9/PCCA_04785.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&uo=2"
+      },
+      {
+        "name": "Notes'n'Words",
+        "artistName": "ONE OK ROCK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/b9/d3/99b9d3dd-b465-78d5-33d0-a441b43c4228/25UMGIM89662.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/notesnwords/1839428209?i=1839428215&uo=2"
+      },
+      {
+        "name": "イイじゃん",
+        "artistName": "M!LK",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fd/a4/54fda41c-2ff0-f132-9955-6c6e41a5c882/VEATP-43744.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%A4%E3%82%A4%E3%81%98%E3%82%83%E3%82%93/1794499542?i=1794499543&uo=2"
+      },
+      {
+        "name": "ファンファーレ",
+        "artistName": "玉置浩二",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/28/cb/b528cbcb-6619-7fef-1985-6d95d085c479/4547366780321.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC/1844327941?i=1844327943&uo=2"
+      },
+      {
+        "name": "FIRST PRISM",
+        "artistName": "増井優花&吉武千颯、映画名探偵プリキュア!",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/bd/6d/5bbd6dc3-3c21-af86-08a8-711cac47c723/MJSS-09410.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/first-prism/6802153789?i=6802153790&uo=2"
+      },
+      {
+        "name": "オノガミ",
+        "artistName": "メガテラ・ゼロ",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/d4/76/91d47615-0857-7430-4a9c-397ad63fb381/FLCF-4549_000_0000_A11_001.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%8E%E3%82%AC%E3%83%9F/6812575398?i=6812575399&uo=2"
+      },
+      {
+        "name": "点描の唄 (feat. 井上苑子)",
+        "artistName": "Mrs. GREEN APPLE",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/27/08/3427087f-2d39-4847-9b19-052dd3589014/18UMGIM36633.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E7%82%B9%E6%8F%8F%E3%81%AE%E5%94%84-feat-%E4%BA%95%E4%B8%8A%E8%8B%91%E5%AD%90/1408505088?i=1408505419&uo=2"
+      },
+      {
+        "name": "エスコート",
+        "artistName": "THE BEAT GARDEN",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/31/d3/8d31d34b-c477-34ad-cee1-183dc0c48137/26UM1IM19587.rgb.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88/6819121866?i=6819121868&uo=2"
+      },
+      {
+        "name": "Turn The World Upside Down Band Ver.",
+        "artistName": "霧島透子",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/94/82/9d94826d-cc86-9598-aa65-3246c30fd9cb/4534530166906.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/turn-the-world-upside-down-band-ver/6817732108?i=6817732703&uo=2"
+      },
+      {
+        "name": "晩餐歌 - Bansanka",
+        "artistName": "tuki.",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/67/03/c9/6703c973-c9da-1bd8-cc81-fe315b951231/4582649065306.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E6%99%A9%E9%A4%90%E6%AD%8C-bansanka/1705678977?i=1705678978&uo=2"
+      },
+      {
+        "name": "ひとりごつ",
+        "artistName": "ハチワレ(CV:田中 誠人)",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/ab/59/f7ab59d9-760c-f1a5-ffe2-d285b93dcdba/PA00100543_0_150490_jacket.jpg/170x170bb.png",
+        "url": "https://music.apple.com/jp/album/%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A4/1626771948?i=1626771953&uo=2"
+      }
+    ]
+  }
+}
