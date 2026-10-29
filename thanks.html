@@ -4,4 +4,15 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#15191f"><title>申請を受け付けました | moodtune</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css?v=20261018-7">
 </head>
-<body data-theme="dark"><main class="thanks-page"><div class="thanks-card"><span class="thanks-mark">✓</span><div class="eyebrow">SONG SUGGESTION RECEIVED</div><h1>おすすめ曲の申請を<br><em>受け付けました。</em></h1><p>送ってくれてありがとうございます。管理者が内容を確認し、承認された曲だけが今後のおすすめに加わります。</p><a class="listen-button" href="https://v5h9bznykz-png.github.io/moodtune/">moodtuneに戻る ↗</a></div></main></body></html>
+<body data-theme="dark">
+<!-- Netlifyのビルド時フォーム検出用の静的宣言。実際の送信フォームはindex.htmlにあります。 -->
+<form name="song-suggestions" method="POST" data-netlify="true" netlify-honeypot="bot-field" hidden>
+<input type="hidden" name="form-name" value="song-suggestions">
+<input type="text" name="song-title">
+<input type="text" name="artist-name">
+<select name="mood-fit"><option value=""></option><option>ごきげん</option><option>落ち着きたい</option><option>ちょっと憂鬱</option><option>元気を出したい</option><option>集中したい</option><option>ワクワク</option><option>疲れ気味</option><option>さみしい</option><option>すっきりしたい</option></select>
+<textarea name="recommendation-note"></textarea>
+<input type="checkbox" name="confirm-review" value="checked">
+<p><label>空欄のままにしてください<input name="bot-field"></label></p>
+</form>
+<main class="thanks-page"><div class="thanks-card"><span class="thanks-mark">✓</span><div class="eyebrow">SONG SUGGESTION RECEIVED</div><h1>おすすめ曲の申請を<br><em>受け付けました。</em></h1><p>送ってくれてありがとうございます。管理者が内容を確認し、承認された曲だけが今後のおすすめに加わります。</p><a class="listen-button" href="https://v5h9bznykz-png.github.io/moodtune/">moodtuneに戻る ↗</a></div></main></body></html>
